@@ -8,13 +8,13 @@
 
 ## Demo
 
-https://tpps88206.github.io/react-redux-kit/
+https://tpps88206.github.io/michael-react-redux-kit/
 
 ## Setup
 
 ```
-$ git clone https://github.com/tpps88206/react-redux-kit.git
-$ cd react-redux-kit/
+$ git clone https://github.com/tpps88206/michael-react-redux-kit.git
+$ cd michael-react-redux-kit/
 $ yarn install
 $ yarn start
 ```
