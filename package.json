@@ -19,7 +19,7 @@
     "react-dom": "^17.0.1",
     "react-redux": "^7.2.2",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "4.0.0",
+    "react-scripts": "4.0.3",
     "redux": "^4.0.5",
     "redux-devtools-extension": "^2.13.8",
     "redux-observable": "^1.2.0",
@@ -29,7 +29,7 @@
     "web-vitals": "^0.2.4"
   },
   "scripts": {
-    "start": "REACT_APP_FLAVOR=dev PUBLIC_URL=http://localhost:3000 react-app-rewired start",
+    "start": "REACT_APP_FLAVOR=dev PUBLIC_URL=http://localhost:3000 ESLINT_NO_DEV_ERRORS=true react-app-rewired start",
     "build": "react-app-rewired build",
     "test": "npm run lint && npm run jest",
     "jest": "react-app-rewired test",
