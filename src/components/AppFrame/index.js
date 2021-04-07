@@ -14,7 +14,7 @@ const AppFrame = ({ children }) => {
           <IconButton edge="start" color="inherit" aria-label="menu">
             <MenuIcon />
           </IconButton>
-          <Typography variant="h6">Github Repositories Searching</Typography>
+          <Typography variant="h6">Hello World</Typography>
         </Toolbar>
       </AppBar>
       <div>{children}</div>

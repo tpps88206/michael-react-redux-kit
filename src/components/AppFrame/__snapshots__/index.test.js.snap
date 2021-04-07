@@ -36,7 +36,7 @@ exports[`renders AppFrame with snapshot 1`] = `
         <h6
           class="MuiTypography-root MuiTypography-h6"
         >
-          Github Repositories Searching
+          Hello World
         </h6>
       </div>
     </header>
